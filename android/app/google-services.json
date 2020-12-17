@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815959659110",
+    "firebase_url": "https://myteacher-notification.firebaseio.com",
+    "project_id": "myteacher-notification",
+    "storage_bucket": "myteacher-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815959659110:android:d81893ccb34f5d712893a7",
+        "android_client_info": {
+          "package_name": "com.smartgen.myteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815959659110-gdpcq46q9mi4g7dovbqjojj77leqrn4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXu9XpnvX-_gZq3h_CSjgNYnfI76OtwDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815959659110-gdpcq46q9mi4g7dovbqjojj77leqrn4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

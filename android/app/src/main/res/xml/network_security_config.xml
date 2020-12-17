@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">13.234.141.121</domain>
+        <domain includeSubdomains="true">192.168.109.101</domain>
+        <domain includeSubdomains="true">10.0.3.2</domain>
+        <domain includeSubdomains="true">localhost</domain>
+        <domain includeSubdomains="true">0.0.0.0</domain>
+        <domain includeSubdomains="true">192.168.43.114</domain>
+        <domain includeSubdomains="true">www.smsstriker.com</domain>
+        <domain includeSubdomains="true">stepup-data.s3.ap-south-1.amazonaws.com</domain>
+
+        <domain includeSubdomains="true">3.7.106.132</domain>
+        <domain includeSubdomains="true">2.3.7.171</domain>
+        <domain includeSubdomains="true">3.7.171.194</domain>
+    </domain-config>
+</network-security-config>

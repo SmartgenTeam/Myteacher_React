@@ -1,0 +1,36 @@
+const COLORS = {
+    blue: '#1F4877',
+    blueDark: '#1A4273',
+    blue_light: '#E3F2FD',
+    blue1: '#BBDEFB',
+    blue2:'#1E7ECE',
+    orange: '#D67B2A',
+    orange_top: '#f8aa25',
+    orange_bottom: '#d97e2b',
+    black: '#000000',
+    white: '#FFFFFF',
+    offWhite: '#E1E1E1',
+    grey: '#E7E7E7',
+    grey_light: '#E7E7E7',
+    darkGrey: '#9B9B9B',
+    pink: '#FC7368',
+    green: '#84B482',
+    green1: '#E8F5E9',
+    green_light: '#C8E6C9',
+    red: '#D32F2F',
+    red1: '#FFF3E0',
+    red_light: '#FFE0B2',
+    purple: '#BD83CF',
+
+    box1: '#f48c9a',
+    box1_small:'#e86f7f',
+    box2: '#e280f2',
+    box2_small:'#bc47d2',
+    box3: '#26d447',
+    box3_small:'#178f5c',
+    box4: '#7b8ad5',
+    box4_small:'#7772be',
+
+}
+
+export default COLORS;
